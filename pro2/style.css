@@ -1,0 +1,15 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.modal-title {
+  text-align: center;
+  font-size: 30px;
+}
+.modal-body {
+  background-color: rgb(255, 255, 29);
+}
+.modal-footer {
+  background-color: rgb(255, 255, 126);
+}
